@@ -18,6 +18,7 @@ type ChartData = {
 };
 
 const BarChart = () => {
+  
   const [chartData, setChartData] = useState<ChartData>({
     labels: {
       categories: [],
@@ -44,8 +45,8 @@ const BarChart = () => {
           {
             name: "% Success",
             data: mySeries,
-          }
-        ]
+          },
+        ],
       });
     });
   }, []);
