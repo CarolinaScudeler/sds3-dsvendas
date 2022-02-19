@@ -43,7 +43,7 @@ Pré-requisitos: yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/GlauciaLS/dsvendas-sds3
+git clone https://github.com/CarolinaScudeler/sds3-dsvendas
 
 # entrar na pasta do projeto front-end
 cd frontend
