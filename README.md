@@ -5,7 +5,7 @@
 <p>Aplicação de gerenciamento de vendas através de dashboard. Utilizando ReactJS no front-end para consumir uma API feita em Java com Spring Boot no back-end.</p>
 
 <p>Front-end hospedado no Netlify: https://cscudeler-dsvendas.netlify.app/ </p>
-<p>Back-end hospedado no Heroku: https://cscudeler-dsvendas.herokuapp.com/ </p>
+<p>Back-end hospedado no Heroku: https://dsvendas-cscudeler.herokuapp.com/ </p>
 
 <h1>🛠 Tecnologias</h1>
 
