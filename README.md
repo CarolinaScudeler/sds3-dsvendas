@@ -12,6 +12,7 @@
 - Front-end
   - ReactJS
   - TypeScript
+  - Axios
 - Back-end
   - Java
   - Spring Boot
