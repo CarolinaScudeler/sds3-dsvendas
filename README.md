@@ -1,5 +1,5 @@
 <h1 align="center">:bar_chart: DS Vendas</h1>
-<p align="center">Projeto realizado durante a Semana Spring React 3.0</p>
+<p align="center">Projeto realizado durante a Semana Spring React 3.0 da DevSuperior</p>
 
 # 📖 Sobre
 <p>Aplicação de gerenciamento de vendas através de dashboard. Utilizando ReactJS no front-end para consumir uma API feita em Java com Spring Boot no back-end.</p>
