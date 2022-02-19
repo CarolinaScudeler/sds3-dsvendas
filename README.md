@@ -11,6 +11,7 @@
 
 - Front-end
   - ReactJS
+  - TypeScript
 - Back-end
   - Java
   - Spring Boot
