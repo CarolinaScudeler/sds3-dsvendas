@@ -28,13 +28,15 @@
 
 <h1>▶️ Como executar o projeto</h1>
 
+```bash
+# clonar repositório
+git clone https://github.com/CarolinaScudeler/sds3-dsvendas
+```
+
 <h2>Back end</h2>
 Pré-requisitos: Java 11
 
 ```bash
-# clonar repositório
-git clone https://github.com/CarolinaScudeler/sds3-dsvendas
-
 # entrar na pasta do projeto back-end
 cd backend
 
@@ -46,9 +48,6 @@ mvn spring-boot:run
 Pré-requisitos: yarn
 
 ```bash
-# clonar repositório
-git clone https://github.com/CarolinaScudeler/sds3-dsvendas
-
 # entrar na pasta do projeto front-end
 cd frontend
 
